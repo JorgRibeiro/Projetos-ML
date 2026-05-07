@@ -23,4 +23,10 @@
     uv pip install -r requirements.txt
     ```
 
-4. Selecione o kernel correto no jupyter
+4. Extraia o dataset
+
+    ```
+    unzip house-prices-advanced-regression-techniques.zip -d datasets/house-prices
+    ```
+
+5. Selecione o kernel correto no jupyter
